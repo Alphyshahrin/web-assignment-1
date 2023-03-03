@@ -1,0 +1,76 @@
+body {
+    background-color: rgba(255, 255, 255, 255);
+}
+
+.syllabus {
+    margin-left: 85px;
+    margin-top: 30px;
+}
+
+.container1 {
+    display: grid;
+    grid-template-columns: 1fr 4fr;
+    margin-top: 30px;
+}
+
+h3 {
+    font-size: 25px;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.week {
+    background-color: rgba(242, 244, 246, 255);
+    margin-left: 80px;
+    margin-right: 80px;
+    border-radius: 10px;
+}
+
+.week1 {
+    text-align: center;
+}
+
+.links {
+    margin-top: 20px;
+}
+
+.links a {
+    margin-right: 30px;
+    padding: 5px;
+}
+
+.slides {
+    background-color: #c3b5fd;
+    color: black;
+    border-radius: 7px;
+}
+
+.starter {
+    background-color: #92c5fd;
+    color: black;
+    border-radius: 7px;
+}
+
+.form {
+    background-color: rgba(253, 165, 165, 255);
+    color: black;
+    border-radius: 7px;
+}
+
+.solution {
+    background-color: rgba(135, 238, 172, 255);
+    border-radius: 7px;
+    color: black;
+}
+
+.solution-t {
+    background-color: rgba(135, 238, 172, 255);
+    border-radius: 7px;
+    color: black;
+}
+
+.solutiontf {
+    padding-top: 20px;
+}
